@@ -1,4 +1,5 @@
 
+[![Build Status](https://shmil.visualstudio.com/VSO/_apis/build/status/Build%20Java%20based%20on%20Maven?branchName=master)](https://shmil.visualstudio.com/VSO/_build/latest?definitionId=59?branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
